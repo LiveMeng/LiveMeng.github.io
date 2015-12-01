@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[LiveMeng's Blog]]></title>
+  <subtitle><![CDATA[学无止境]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-11-30T08:20:55.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[LiveMeng]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[终于下定决心写技术博客]]></title>
+    <link href="http://yoursite.com/2015/11/30/2015-11-30-zhong-yu-xia-ding-jue-xin-xie-ji-zhu-blog/"/>
+    <id>http://yoursite.com/2015/11/30/2015-11-30-zhong-yu-xia-ding-jue-xin-xie-ji-zhu-blog/</id>
+    <published>2015-11-30T08:17:25.000Z</published>
+    <updated>2015-11-30T08:20:55.000Z</updated>
+    <content type="html"><![CDATA[<p>总是找借口没时间、没精力写技术博客，发现这几年都没好好总结学的知识、遇到的问题，感觉知识越来越杂乱，终于还是要开始写技术博客了。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>总是找借口没时间、没精力写技术博客，发现这几年都没好好总结学的知识、遇到的问题，感觉知识越来越杂乱，终于还是要开始写技术博客了。</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
